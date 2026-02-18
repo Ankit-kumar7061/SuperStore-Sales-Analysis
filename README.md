@@ -49,5 +49,14 @@ This dashboard helps businesses understand their sales performance, identify key
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### Main Dashboard
+![Dashboard](dashboard.png)
+
+### Sales Forecast
+![Forecast](forecast.png)
+---
+
 ## 👨‍💻 Author
 Ankit Kumar
